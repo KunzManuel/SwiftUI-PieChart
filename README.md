@@ -27,5 +27,6 @@ VStack {
 .padding()
 ```
 
+## Example Image
 
 ![Simulator Screen Shot - iPhone 12 Pro - 2021-04-03 at 11 18 42](https://user-images.githubusercontent.com/33420796/113474305-9068cc80-946f-11eb-9c99-90c7321276d0.png)
