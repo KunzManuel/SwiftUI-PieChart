@@ -26,6 +26,6 @@ VStack {
 }
 .padding()
 ```
-![simulator_screenshot_99F0AEB8-D4F5-447E-A94E-2A01586D7BBF](https://user-images.githubusercontent.com/33420796/112624597-20829280-8e2e-11eb-9a12-82a4eb29a6d7.png)
 
 
+![Simulator Screen Shot - iPhone 12 Pro - 2021-04-03 at 11 18 42](https://user-images.githubusercontent.com/33420796/113474305-9068cc80-946f-11eb-9c99-90c7321276d0.png)
